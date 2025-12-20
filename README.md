@@ -45,3 +45,7 @@ MatrixTerminal is a realistic, cinematic command-line interface simulator that r
 ```bash
 # Or run from command line
 MatrixTerminal.bat
+
+
+
+> Linux & Macos Versions will be soon .
