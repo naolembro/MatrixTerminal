@@ -3,7 +3,7 @@
 ![MatrixTerminal Demo](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Category](https://img.shields.io/badge/Category-Security_Tools-orange)
+![Category](https://img.shields.io/badge/Category-Security_Tools-orange) 
  
 ## 🎬 The Ultimate Hollywood-Style Hacking Experience
 
