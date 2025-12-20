@@ -2,7 +2,7 @@
 chcp 65001 >nul
 title CYBER OPERATIONS TERMINAL v3.14 :: [CLASSIFIED]
 mode con cols=120 lines=40
-color 0A
+color 0A 
 setlocal EnableDelayedExpansion
 
 :: Disable quick edit mode to prevent accidental pauses
@@ -211,4 +211,5 @@ if "%user%"=="neo" (
     echo                    THE MATRIX HAS YOU
     echo.
     ping 127.0.0.1 -n 3 >nul
+
 )
