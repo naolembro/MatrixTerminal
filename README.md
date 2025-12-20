@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow) 
 ![Category](https://img.shields.io/badge/Category-Security_Tools-orange) 
- 
+  
 ## 🎬 The Ultimate Hollywood-Style Hacking Experience
 
 MatrixTerminal is a realistic, cinematic command-line interface simulator that recreates the thrilling hacking sequences from movies like *The Matrix*, *Mr. Robot*, and *Hackers*. Perfect for cybersecurity enthusiasts, students, and anyone who wants to feel like a cyber operative without breaking any laws.
