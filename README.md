@@ -1,6 +1,3 @@
-<img width="1366" height="662" alt="MatrixTerminal" src="https://github.com/user-attachments/assets/022809f4-5f70-4e47-a002-bef9ce57ec2f" />
-
-
 # MatrixTerminal - Cinematic Hacking Simulator
                                              
 ![MatrixTerminal Demo](https://img.shields.io/badge/Status-Active-brightgreen) 
