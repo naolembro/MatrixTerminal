@@ -1,6 +1,6 @@
 # MatrixTerminal - Cinematic Hacking Simulator
 
-![MatrixTerminal Demo](https://img.shields.io/badge/Status-Active-brightgreen)
+![MatrixTerminal Demo](https://img.shields.io/badge/Status-Active-brightgreen) 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Category](https://img.shields.io/badge/Category-Security_Tools-orange) 
