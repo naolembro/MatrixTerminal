@@ -11,7 +11,7 @@ MatrixTerminal is a realistic, cinematic command-line interface simulator that r
 
 <img width="825" height="415" alt="Screenshot 2025-12-20 124018" src="https://github.com/user-attachments/assets/a7b717c7-87fc-4fd6-9799-48f0e3d7d118" />
 
-> TRY THE SIMULATOR . ( IT ALSO HAVE SOME EASTER EGGS )
+> TRY THE SIMULATOR . ( IT ALSO HAVE SOME EASTER EGGS ) 
 
 
 ## ✨ Features
