@@ -15,7 +15,7 @@ MatrixTerminal is a realistic, cinematic command-line interface simulator that r
 
 
 ## ✨ Features
-
+ 
 ### 🎥 Cinematic Experience
 - Hollywood-style terminal interface with "matrix" effect
 - Realistic hacking terminology and workflows
